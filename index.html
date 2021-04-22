@@ -9,5 +9,6 @@
       <h3>some of my projects</h3>
       <a href="basic ethics.html">basic ethics</a>
       <a href="Ghost in The Shell.html">Ghost in The Shell</a>
+      <a href="On Capital and Ideology A Critique of The Kentucky Cycle.html">On Captial and Ideology: A Critique of The Kentucky Cyle</a>
   </body>
 </html>
